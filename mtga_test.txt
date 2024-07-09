@@ -1,0 +1,619 @@
+pack 1, pick 1
+which cards are in the pack?
+Elusive Otter 
+Splashy Spellcaster
+Gingerbread Hunter
+Season of Growth
+Collector's Vault
+Slumbering Keepguard
+Micking Sprite
+that is not a valid card, try again
+Mocking Sprite
+Barrow Naughty
+Sugar Rush
+Flick a Coin
+Harried Spearguard
+Bestial Bloodline
+Redtooth Genealogist 
+Rootrider Faun
+your pool is:
+['Gingerbread Hunter']
+was that the last pick?
+no
+pack 1, pick 2
+which cards are in the pack?
+Sanguine Bond
+The Princess Takes Flight 
+Gadwick's First Duel
+Up the Beanstalk
+Frostbridge Guard
+Rimefur Reindeer
+Vantress Transmuter
+Barrow Naughty
+Stingblade Assassin
+Edgewall Pack
+Hollow Scavenger
+Rootrider Faun
+Crystal Grotto
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk']
+was that the last pick?
+no
+pack 1, pick 3
+which cards are in the pack?
+Tenacious Tomeseeker
+Callous Sell-Sword
+Garruk's Uprising
+Obyra, Dreaming Duelist
+Archon's Glory
+Protective Parents
+Into the Fae Court
+Sleight of Hand
+Stingblade Assassin
+Bespoke Battlegarb
+Sommune with Nature
+that is not a valid card, try again
+Commune with Nature
+Candy Trail
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword']
+was that the last pick?
+no
+pack 1, pick 4
+which cards are in the pack?
+Primal Vigor
+Eritte's Tempting Apple
+that is not a valid card, try again
+Eriette's Tempting Apple
+Tuinvale Guide
+Living Lecturn
+that is not a valid card, try again
+Living Lectern
+Vantress Transmuter
+Barrow Naughty
+Gnawing Crescendo
+Grand Ball Guest
+Ferocious Werefox
+Rootrider Faun
+Skybeast Tracker
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun']
+was that the last pick?
+no
+pack 1, pick 5
+which cards are in the pack?
+Vampiric Rites
+Night of the Sweets' Revenge
+Armory Mice
+Moment of Valor
+Return Triumphant
+Stockpilling Celebrant
+that is not a valid card, try again
+Stockpiling Celebrant
+Barrow Naughty
+Bespoke Battlegarb
+Curse of the Werefox
+Gingerbrute
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox']
+was that the last pick?
+no
+pack 1, pick 6
+which cards are in the pack?
+Ashiok's Reaper
+Ego Drain
+Besotted Knight
+Merfolk Coralsmith
+Spell Stutter
+Rat Out
+Gnawing Crescendo
+Brave the Wilds
+Redtooth Genealogist
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist']
+was that the last pick?
+no
+pack 1, pick 7
+which cards are in the pack?
+Twisted Fealty
+Ground Seal
+Spell Stutter
+Voracious Vermin
+Minecart Daredevil
+Leaping Ambush
+Prophetic Prism
+Crystal Grotto
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty']
+was that the last pick?
+no
+pack 1, pick 8
+which cards are in the pack?
+Eerie Interference
+Tempest Hart
+Archon's Glory
+Charmed Clothier
+Merfolk Coralsmith
+Harried Spearbuard
+that is not a valid card, try again
+Harried Spearguard
+Scarecrow Guide
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart']
+was that the last pick?
+no
+pack 1, pick 9
+which cards are in the pack?
+Season of Growth
+Collector's Vault
+Sugar Rush
+Harried Spearguard
+Bestial Bloodline
+Redtooth Genealogist
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault"]
+was that the last pick?
+no
+pack 1, pick 10
+which cards are in the pack?
+Garwick's First Duel 
+that is not a valid card, try again
+Gadwick's Dirst Duel
+that is not a valid card, try again
+Gadwick's First Duel
+Frostbridge Guard
+Barrow Naughty 
+Stingblade Assassin
+Crystal Grotto
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto']
+was that the last pick?
+no
+pack 1, pick 11
+which cards are in the pack?
+Garruk's Uprising 
+Sleight of Hand
+Bespoke Battlegarb
+Commune with Nature
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising"]
+was that the last pick?
+no
+pack 1, pick 12
+which cards are in the pack?
+Living Lectern
+Gnawing Crecendo
+that is not a valid card, try again
+Gnawing Crescendo
+Skybeast Tracker
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker']
+was that the last pick?
+no
+pack 1, pick 13
+which cards are in the pack?
+Vampiric Rites
+Return Triumphant
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites']
+was that the last pick?
+no
+pack 1, pick 14
+which cards are in the pack?
+Ego Drain
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain']
+was that the last pick?
+no
+pack 2, pick 1
+which cards are in the pack?
+Spiteful Hexmage
+Hatching Plans
+Threadbind Clique
+Tanglespan Lookout
+Welcome to Sweettooth
+Kellan's Lightblades
+Aquatic Alchemist
+Feed the Cauldron
+Stingblade Assassin
+Bellowing Bruiser
+Gnawing Crescendo
+Skewer Slinger
+Leaping Ambush
+Territorial Witchstalker
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage']
+was that the last pick?
+no
+pack 2, pick 2
+which cards are in the pack?
+Beseech the Mirror
+Bitter Chill
+High Fae Negotiator
+Twisted Sewer-Witch
+Dragon Mantle
+Slumbering Keepguard
+Dimisher Witch
+that is not a valid card, try again
+Diminisher Witch
+Not Dead After All
+Grabbly Giant
+that is not a valid card, try again
+Grabby Giant
+Minecart Daredevil
+Beanstalk Wurm
+Leaping Ambush
+Verdant Outrider
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror']
+was that the last pick?
+no
+pack 2, pick 3
+which cards are in the pack?
+Ashiok's Reaper
+Raid Bombardment
+Soul-Guide Lantern
+Rimefur Reindeer
+Unassuming Sage
+Johann's Stopgap
+Hopeless Nightmare
+Scream Puff
+Sweettooth Witch
+Frantic Firebolt
+Return from the Wolds
+that is not a valid card, try again
+Return from the Wilds
+Scarecrow Guide
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare']
+was that the last pick?
+no
+pack 2, pick 4
+which cards are in the pack?
+Curiosity
+Icewrought Sentry
+Spellscorn Coven
+Royal Treatment
+Hopeful Vigil
+Savior of the Sleeping
+Tuinvale Guide
+Ice Out
+Not Dead After All
+Skewer Slinger
+Ferocious Werefox
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment']
+was that the last pick?
+no
+pack 2, pick 5
+which cards are in the pack?
+Solitary Sanctuary
+Tempest Hart
+Diminisher Witch
+Stingblade Assassin
+Bellowing Bruiser
+Merry Bards
+Brave the Wilds
+Commune with Nature
+Rootrider Faun
+Territorial Witchstalker
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun']
+was that the last pick?
+no
+pack 2, pick 6
+which cards are in the pack?
+Eerie Interference 
+Dragon Mantle
+Savior of the Sleeping
+Spell Stutter
+Conceited Witch
+Sweettoth Witch
+that is not a valid card, try again
+Sweettooth Witch
+Skewer Slinger
+Brave the Wilds
+Candy Trail
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch']
+was that the last pick?
+no
+pack 2, pick 7
+which cards are in the pack?
+Impact Tremors
+Greta, Sweettoth Scourge
+that is not a valid card, try again
+Greta, Sweettooth Scourge
+Stockpiling Celebrant
+Into the Fae Court
+Minstrocity
+that is not a valid card, try again
+Mintstrosity
+Witch's Mark
+Commune with Nature
+Crystal Grotto
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge']
+was that the last pick?
+no
+pack 2, pick 8
+which cards are in the pack?
+Compulsion
+Stromkeld Prowler
+that is not a valid card, try again
+Stormkeld Prowler
+Sugar Rush 
+Merry Bards
+Redcap Thief
+Skewer Slinger
+Toadstool Admirer 
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush']
+was that the last pick?
+no
+pack 2, pick 9
+which cards are in the pack?
+Aquatic Alchemist
+Stingblade Assassin
+Gnawing Crescendo
+Skewer Slinger
+Leaping Ambush
+Territorial Witchstalker
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin']
+was that the last pick?
+no
+pack 2, pick 10
+which cards are in the pack?
+Dragon Mantle
+Not Dead after All
+that is not a valid card, try again
+Not Dead After All
+Minecart Daredevil
+Leaping Ambush
+Verdant Outrider
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider']
+was that the last pick?
+no
+pack 2, pick 11
+which cards are in the pack?
+Raid Bombardment
+Soul-guide Lantern
+that is not a valid card, try again
+Soul-Guide Lantern
+Johann's Stopgap
+Scream Puff
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff']
+was that the last pick?
+no
+pack 2, pick 12
+which cards are in the pack?
+Ice Out
+Not Dead After All
+Skewer Slinger
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All']
+was that the last pick?
+no
+pack 2, pick 13
+which cards are in the pack?
+Commune with Nature
+Territorial Witchstalker
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker']
+was that the last pick?
+no
+pack 2, pick 14
+which cards are in the pack?
+Skewer Slinger
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger']
+was that the last pick?
+no
+pack 3, pick 1
+which cards are in the pack?
+Rotisserie Elemental
+Dutiful Griffin
+Curiosity
+Picklock Prankster
+Witchstalker Frenzy
+Besotted Knight 
+Frostbridge Guard
+Spell Stutter
+Vantress Transmuter
+Warehouse Tabby
+Sindled Heroism
+that is not a valid card, try again
+Kindled Heroism
+Ratcatcher Trainee
+Torch the Tower
+Titanic Growth
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental']
+was that the last pick?
+no
+pack 3, pick 2
+which cards are in the pack?
+Hardend Scales
+that is not a valid card, try again
+Hardened Scales
+The Apprentice's Folly
+Glass Casket
+Chancellor of Tales
+Back for Seconds
+Merfolk Coralsmith
+Misleading Motes
+Spell Stutter
+Vantress Transmuter
+Not Dead After All
+Edgewall Pack
+Merry Bards
+Spider Food
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales']
+was that the last pick?
+no
+pack 3, pick 3
+which cards are in the pack?
+Intruder Alarm 
+Gadwick;s First Duel
+that is not a valid card, try again
+Gadwick's First Duel 
+Tenacious Tomeseeker
+Cooped Up
+Beluna's Gatekeeper
+Freeze in Place
+Stormkeld Prowler
+Feed the Cauldron
+Dweettooth Witch
+that is not a valid card, try again
+Sweettooth Witch
+Cut in
+that is not a valid card, try again
+Cut In
+Leaping Ambush
+Spider Food
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch']
+was that the last pick?
+no
+pack 3, pick 4
+which cards are in the pack?
+Twisted Sewer-Witch
+Garruk's Uprising
+Hopeful Vigil
+Savior of the Sleeping
+Quick Study
+Snaremaster Sprite
+Cinceited Witch
+that is not a valid card, try again
+Conceited Witch
+Minecart Daredevil
+Beanstalk Wurm
+Bestial Boodline
+that is not a valid card, try again
+Bestial Bloodline
+Territorial Witchstalker
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising"]
+was that the last pick?
+no
+pack 3, pick 5
+which cards are in the pack?
+Gadwick's First Duel
+Dream Spoilers
+Raid Bombardment
+Johann, Apprentice Sorcerer
+Slumbering Keepguard
+Ice Out
+Rat Out
+Witch's Mark
+Gingerbrute
+Prophetic Prism
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute']
+was that the last pick?
+no
+pack 3, pick 6
+which cards are in the pack?
+Johann, Apprentice Sorcerer 
+Freeze in Place
+Into the Fae Court
+Johann's Stopgap
+Mocking Sprite
+Wicked Visitor
+Skewer Slinger
+Toadstool Admirer 
+Crystal Grotto
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute', 'Crystal Grotto']
+was that the last pick?
+no
+pack 3, pick 7
+which cards are in the pack?
+Moment of Valor 
+Into the Fae Court
+Misleading Motes
+Rowan's Grim Search
+Sweettooth Witch
+Kindled Heroism
+Troublemaker Ouphe 
+Crystal Grotto
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute', 'Crystal Grotto', 'Sweettooth Witch']
+was that the last pick?
+no
+pack 3, pick 8
+which cards are in the pack?
+Solitary Sanctuary 
+Season of Growth 
+Vantress Transmuter
+Eriette's Whisper
+Merry Bards
+Skewer Slinger
+Crystal Grotto
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute', 'Crystal Grotto', 'Sweettooth Witch', 'Season of Growth']
+was that the last pick?
+no
+pack 3, pick 9
+which cards are in the pack?
+Curiosity
+Besotted Knight
+Fristbridge Guard
+that is not a valid card, try again
+Frostbridge Guard
+Spell Stutter 
+Kindled Heroism
+Titanic Growth
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute', 'Crystal Grotto', 'Sweettooth Witch', 'Season of Growth', 'Curiosity']
+was that the last pick?
+no
+pack 3, pick 10
+which cards are in the pack?
+Merfolk Coralsmith
+Misleading Motes
+Spell Stutter
+Merry Bards
+Spider Food
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute', 'Crystal Grotto', 'Sweettooth Witch', 'Season of Growth', 'Curiosity', 'Merry Bards']
+was that the last pick?
+no
+pack 3, pick 11
+which cards are in the pack?
+Gadwick's First Duel 
+Freeze in Place
+Leaping Ambush
+Spider Food
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute', 'Crystal Grotto', 'Sweettooth Witch', 'Season of Growth', 'Curiosity', 'Merry Bards', "Gadwick's First Duel"]
+was that the last pick?
+no
+pack 3, pick 12
+which cards are in the pack?
+Minecart Daredevil
+Bestial Bloodline
+Territorial Witchstalker
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute', 'Crystal Grotto', 'Sweettooth Witch', 'Season of Growth', 'Curiosity', 'Merry Bards', "Gadwick's First Duel", 'Bestial Bloodline']
+was that the last pick?
+no
+pack 3, pick 13
+which cards are in the pack?
+Johann, Apprentice Sorcerer
+Slumbering Keepguard
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute', 'Crystal Grotto', 'Sweettooth Witch', 'Season of Growth', 'Curiosity', 'Merry Bards', "Gadwick's First Duel", 'Bestial Bloodline', 'Johann, Apprentice Sorcerer']
+was that the last pick?
+no
+pack 3, pick 14
+which cards are in the pack?
+Johann, Apprentice Sorcerer
+your pool is:
+['Gingerbread Hunter', 'Up the Beanstalk', 'Callous Sell-Sword', 'Rootrider Faun', 'Curse of the Werefox', 'Redtooth Genealogist', 'Twisted Fealty', 'Tempest Hart', "Collector's Vault", 'Crystal Grotto', "Garruk's Uprising", 'Skybeast Tracker', 'Vampiric Rites', 'Ego Drain', 'Spiteful Hexmage', 'Beseech the Mirror', 'Hopeless Nightmare', 'Royal Treatment', 'Rootrider Faun', 'Conceited Witch', 'Greta, Sweettooth Scourge', 'Sugar Rush', 'Stingblade Assassin', 'Verdant Outrider', 'Scream Puff', 'Not Dead After All', 'Territorial Witchstalker', 'Skewer Slinger', 'Rotisserie Elemental', 'Hardened Scales', 'Sweettooth Witch', "Garruk's Uprising", 'Gingerbrute', 'Crystal Grotto', 'Sweettooth Witch', 'Season of Growth', 'Curiosity', 'Merry Bards', "Gadwick's First Duel", 'Bestial Bloodline', 'Johann, Apprentice Sorcerer', 'Johann, Apprentice Sorcerer']
+was that the last pick?
+yes
